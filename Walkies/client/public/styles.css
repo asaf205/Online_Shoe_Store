@@ -1,0 +1,23 @@
+.basicTable tr:nth-child(even) {
+    background-color: #eee;
+}
+.basicTable tr:nth-child(odd) {
+    background-color: #fff;
+}
+.basicTable th {
+    color: white;
+    background-color: black;
+}
+
+.basicTable {
+    border-spacing: 5px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
