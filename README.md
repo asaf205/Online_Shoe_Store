@@ -1,4 +1,4 @@
-# Online_Shoe_Store
+# Online Shoe Store
 
 Store name:
 Walkies
