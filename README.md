@@ -2,8 +2,10 @@
 
 Store name:
 Walkies
+
 What are you selling?
 Shoes
+
 What additional page(s) did you add? How to operate it?
             
 page (1) order history operate it: After the customer makes an order (checkout), the order details will appear on this page.
